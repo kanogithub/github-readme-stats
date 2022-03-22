@@ -184,7 +184,7 @@ const renderCompactLayout = (langs, width, totalLanguageSize) => {
  * @returns {number}
  */
 const calculateCompactLayoutHeight = (totalLangs) => {
-  return 90 + Math.round(totalLangs / 2) * 25;
+  return 90 + Math.round(totalLangs / 2) * 35;
 };
 
 /**
