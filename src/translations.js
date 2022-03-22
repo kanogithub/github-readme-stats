@@ -255,7 +255,7 @@ const langCardLocales = {
     cs: "Nejpoužívanější jazyky",
     de: "Meist verwendete Sprachen",
     bn: "সর্বাধিক ব্যবহৃত ভাষা সমূহ",
-    en: "Most Used Languages",
+    en: "Most Used Languages1",
     es: "Lenguajes más usados",
     fr: "Langages les plus utilisés",
     hu: "Leggyakrabban használt nyelvek",
